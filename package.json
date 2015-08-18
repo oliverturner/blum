@@ -7,9 +7,9 @@
     "node": ">=0.10.30"
   },
   "dependencies": {
-    "confidence": "1.0.0",
+    "confidence": "1.2.0",
     "json-format": "0.0.1",
-    "yargs": "3.6.0"
+    "yargs": "3.19.0"
   },
   "devDependencies": {
     "code": "^1.4.0",
